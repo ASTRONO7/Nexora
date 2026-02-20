@@ -1,0 +1,23 @@
+{
+    "name": "nexora-ai-workspace",
+    "framework": "vite",
+    "buildCommand": "npm run build",
+    "outputDirectory": "dist",
+    "regions": [
+        "sin1"
+    ],
+    "rewrites": [
+        {
+            "source": "/api/integrations/(.*)",
+            "destination": "/api/integrations.js"
+        },
+        {
+            "source": "/api/send-email",
+            "destination": "/api/send-email.js"
+        },
+        {
+            "source": "/((?!api|assets|.*\\..*).*)",
+            "destination": "/index.html"
+        }
+    ]
+}

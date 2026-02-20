@@ -1,0 +1,20 @@
+﻿src/config/firebase.ts(8,13): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/config/firebase.ts(8,25): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/config/firebase.ts(9,17): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/config/firebase.ts(9,29): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/config/firebase.ts(10,16): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/config/firebase.ts(10,28): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/config/firebase.ts(11,20): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/config/firebase.ts(11,32): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/config/firebase.ts(12,24): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/config/firebase.ts(12,36): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/config/firebase.ts(13,12): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/config/firebase.ts(13,24): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/config/firebase.ts(14,20): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/config/firebase.ts(14,32): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/config/firebase.ts(26,38): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/config/firebase.ts(26,50): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/services/ai.ts(1,24): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/services/ai.ts(1,36): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
+src/services/upload.ts(1,17): error TS1343: The 'import.meta' meta-property is only allowed when the '--module' option is 'es2020', 'es2022', 'esnext', 'system', 'node16', 'node18', 'node20', or 'nodenext'.
+src/services/upload.ts(1,29): error TS2339: Property 'env' does not exist on type 'ImportMeta'.
